@@ -1,4 +1,4 @@
-# Wildfire Time-to-Impact Prediction (WiDS Datathon 2026)
+This repository contains the full implementation, analysis, and results for wildfire impact prediction using survival analysis models.
 
 ## Project Overview
 This project was developed as part of the WiDS Datathon 2026 and submitted for the course CS316: Introduction to AI and Data Science.
@@ -107,3 +107,5 @@ Constraints applied:
 ### Model Comparison
 - Gradient Boosting and Random Forest models achieved better performance
 - CoxPH served as a simpler baseline model
+
+Note: Dataset is from WiDS Datathon and used for academic purposes.
