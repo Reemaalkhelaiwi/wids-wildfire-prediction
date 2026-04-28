@@ -108,4 +108,8 @@ Constraints applied:
 - Gradient Boosting and Random Forest models achieved better performance
 - CoxPH served as a simpler baseline model
 
+### Student Names:
+Reema Alkhelaiwi
+Danyah Alsabti
+
 Note: Dataset is from WiDS Datathon and used for academic purposes.
